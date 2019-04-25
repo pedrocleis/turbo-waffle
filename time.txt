@@ -1,0 +1,20 @@
+pidigits py
+        1.95 real         1.85 user         0.08 sys
+pidigits java
+        9.12 real         9.32 user         0.44 sys
+binary trees py
+      153.04 real       432.88 user         5.95 sys
+binary trees java
+        5.85 real        18.92 user         0.73 sys
+fannkuchen py 10
+        5.32 real        19.80 user         0.06 sys
+fannkuchen java 10
+        0.24 real         0.55 user         0.03 sys
+fasta py 25000000
+       63.17 real       139.45 user        12.33 sys
+fasta java 25000000
+       13.29 real         3.43 user         1.72 sys
+spectral norm py
+      362.58 real      1403.34 user         1.47 sys
+spectral norm java
+        1.43 real         4.70 user         0.05 sys
