@@ -1,0 +1,60 @@
+binarytrees py
+  processor 686.58
+  avg 18.45
+  dram 34.93
+  avg 0.94
+
+
+binarytrees java
+  processor 36.84
+  avg 12.00
+  dram 4.32
+  avg 1.41
+
+fannkuch java
+  processor 5.47
+  avg 4.67
+  dram 0.89
+  avg 0.76
+
+fannkuch py
+  processor 37.34
+  avg 13.36
+  dram 2.04
+  avg 0.73
+
+fasta java
+  processor 61.18
+  avg 12.85
+  dram 5.30
+  avg 1.11
+
+fasta py
+  processor 369.36
+  avg 19.89
+  dram 19.11
+  avg 1.03
+
+pidigits java
+  processor 40.32
+  avg 12.10
+  dram 5.45
+  avg 1.63
+
+pidigs py
+  processor 10.81
+  avg 7.00
+  dram 1.17
+  avg 0.76
+
+spectralnorm java
+  processor 10.99
+  avg 6.82
+  dram 1.24
+  avg 0.77
+
+spectralnorm py
+  processor 1909.06
+  avg 19.12
+  dram 74.55
+  avg 0.75
