@@ -1,0 +1,1 @@
+top -pid $( python3 pidigits.py > /dev/null & echo $! )
